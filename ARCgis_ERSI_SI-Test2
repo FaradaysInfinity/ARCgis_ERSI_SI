@@ -50,8 +50,260 @@
         "type": "CMCE",
         "operational": true,
         "pos_lla": {
-          "latitude": 28.40006,
-          "longitude": -81.277774,
+          "latitude": 28.393346,
+          "longitude": -81.269953,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 2",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.419592,
+          "longitude": -81.267314,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 3",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.415501, 
+          "longitude": -81.306126,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 4",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.454186,
+          "longitude": -81.310432,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 5",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.431254,
+          "longitude": -81.325604,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 6",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.366179,
+          "longitude": -81.282269,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 7",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.44119,
+          "longitude": -81.342164,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 1",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.44948,
+          "longitude": -82.69135,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 2",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.45230,
+          "longitude": -82.69289,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 3",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.45685,
+          "longitude": -82.69476,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 4",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.46313,
+          "longitude": -82.69753,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 5",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.46930,
+          "longitude": -82.70003,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 6",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.47556,
+          "longitude": -82.70235,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 7",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.47909,
+          "longitude": -82.70397,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 8",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.48450,
+          "longitude": -82.70586,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 9",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.48598, 
+          "longitude": -82.70652,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 10",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.49122, 
+          "longitude": -82.70928,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee CMCE 11",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.49483, 
+          "longitude": -82.71103,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Santa Rosa CMCE 1",
+        "address": "4499 Pine Forest Road, Milton, FL 32583",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 30.59823, 
+          "longitude": -87.06892,
           "altitude": 50.0
         },
         "pos_xyz": null,
