@@ -1,0 +1,48 @@
+{
+    "timestamp": "2020-11-19T21:11:39",
+    "agents": [
+      {
+        "active": true,
+        "name": "Commercial ISR Sat",
+        "side": "BLUE",
+        "type": "SATELLITE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 16.0,
+          "longitude": 9.0,
+          "altitude": 250000.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Generic ASAT",
+        "side": "RED",
+        "type": "MISSILE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 16.0,
+          "longitude": 9.0,
+          "altitude": 100000.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "TEL Transporter Erector Launcher",
+        "side": "RED",
+        "type": "VEHICLE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 16.0,
+          "longitude": 9.0,
+          "altitude": 20.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      }
+    ]
+  }
+     
