@@ -1,0 +1,62 @@
+{
+    "timestamp": "2020-11-19T21:11:39",
+    "agents": [
+      {
+        "active": true,
+        "name": "USTA National Campus",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "SITE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.400478,
+          "longitude": -81.279123,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Manatee County Beaches",
+        "address": "4000 State Road 64 and Gulf Drive, Holmes Beach, FL 34217",
+        "type": "SITE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 27.505862,
+          "longitude": -82.714987,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "Santa Rosa County EOC",
+        "address": "4499 Pine Forest Road, Milton, FL 32583",
+        "type": "SITE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 30.598457,
+          "longitude": -87.069262,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      },
+      {
+        "active": true,
+        "name": "USTA CMCE 1",
+        "address": "10000 USTA Blvd, Orlando, FL 32827",
+        "type": "CMCE",
+        "operational": true,
+        "pos_lla": {
+          "latitude": 28.40006,
+          "longitude": -81.277774,
+          "altitude": 50.0
+        },
+        "pos_xyz": null,
+        "vel_xyz": null
+      }
+    ]
+  }
+     
